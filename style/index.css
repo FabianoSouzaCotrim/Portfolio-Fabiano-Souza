@@ -172,34 +172,35 @@ nav {
   background: linear-gradient(330deg, rgba(225, 225, 225, 0.05) 0%, rgba(225, 225, 225, 0.05) 33.333%, rgba(114, 114, 114, 0.05) 33.333%, rgba(114, 114, 114, 0.05) 66.666%, rgba(52, 52, 52, 0.05) 66.666%, rgba(52, 52, 52, 0.05) 99.999%), linear-gradient(66deg, rgba(181, 181, 181, 0.05) 0%, rgba(181, 181, 181, 0.05) 33.333%, rgba(27, 27, 27, 0.05) 33.333%, rgba(27, 27, 27, 0.05) 66.666%, rgba(251, 251, 251, 0.05) 66.666%, rgba(251, 251, 251, 0.05) 99.999%), linear-gradient(225deg, rgba(98, 98, 98, 0.05) 0%, rgba(98, 98, 98, 0.05) 33.333%, rgba(222, 222, 222, 0.05) 33.333%, rgba(222, 222, 222, 0.05) 66.666%, rgba(228, 228, 228, 0.05) 66.666%, rgba(228, 228, 228, 0.05) 99.999%), linear-gradient(90deg, #1c143f, #28a0fd);
 }
 
-#inicio .descrição {
+#inicio .descricao {
   letter-spacing: 3px;
 }
 
-#inicio .descrição h1 {
+#inicio .descricao h1 {
   font-size: 60px;
 }
 
-#inicio .descrição h2 {
+#inicio .descricao h2 {
   font-size: 30px;
   color: #00ffff;
 }
 
-#inicio .descrição button {
+#inicio .descricao button {
   width: 150px;
   height: 50px;
+  margin-top: 20px;
   background: #00ffff;
   border: none;
   cursor: pointer;
   border-radius: 5px;
 }
 
-#inicio .descrição button p {
+#inicio .descricao button p {
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#inicio .descrição button:hover {
+#inicio .descricao button:hover {
   background: #189b9b;
   color: #fff;
 }
